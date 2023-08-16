@@ -3,3 +3,5 @@ Hello World.
 Changes made in global repository. 
 
 Git branch1 making changes
+
+changes made in local repository after merging the branches.
